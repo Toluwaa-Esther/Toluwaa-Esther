@@ -1,6 +1,6 @@
 <h1>Hi, I'm Toluwalase! <a href="https://www.linkedin.com/in/ajumobitoluwalase/"> A Cybersecurity Professional</a>
   
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ajumobitoluwalase"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <h2>👨‍💻 Introduction:</h2>
 
